@@ -31,3 +31,18 @@ To build the demo app, you must have the following:
 *  A physical iPhone running iOS 7 or higher.
 
 
+
+**Download and build the app**
+
+1. Clone the demo app from the GitHub repository by running the following command:
+
+         git clone https://github.com/googlevr/gvr-ios-sdk.git
+
+2. In the Terminal, navigate to the TreasureHunt folder, and then run the following:
+
+        pod update
+
+3. The CardboardSDK CocoaPod is added to the TreasureHunt project.
+In Xcode, open the TreasureHunt.xcworkspace project and then click the Run button.
+Here is a screenshot of Xcode with the TreasureHunt.xcworkspace project loaded:
+
