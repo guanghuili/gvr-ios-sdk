@@ -36,7 +36,7 @@ To build the demo app, you must have the following:
 
 1. Clone the demo app from the GitHub repository by running the following command:
 
-         git clone https://github.com/googlevr/gvr-ios-sdk.git
+         git clone https://github.com/guanghuili/gvr-ios-sdk-Cardboard-.git
 
 2. In the Terminal, navigate to the TreasureHunt folder, and then run the following:
 
