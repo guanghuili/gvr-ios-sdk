@@ -24,10 +24,10 @@ To explore the Google VR SDK for iOS, see the iOS [API Reference](https://develo
 
 To build the demo app, you must have the following:
 
-*Xcode 7.1 or higher.
+*  Xcode 7.1 or higher.
 
-*CocoaPods. To download and install, go to cocoapods.org.
+*  CocoaPods. To download and install, go to cocoapods.org.
 
-*A physical iPhone running iOS 7 or higher.
+*  A physical iPhone running iOS 7 or higher.
 
 
